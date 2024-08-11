@@ -43,7 +43,7 @@ body {
 }
 
 .particle-1 {
-  animation: animParticle 60s linear infinite;
+  animation: animParticle 60s linear infinite reverse;
   box-shadow: 0px 0px #fff, 668px 1826px #fff, 426px 1895px #fff,
     36px 431px #fff, 2400px 2438px #fff, 1695px 1002px #fff, 2157px 2026px #fff,
     1375px 2098px #fff, 549px 338px #fff, 1836px 1402px #fff, 1320px 2515px #fff,
@@ -551,7 +551,7 @@ body {
 }
 
 .particle-2 {
-  animation: animParticle 120s linear infinite;
+  animation: animParticle 120s linear infinite reverse;
   box-shadow: 0px 0px #fff, 2387px 69px #fff, 998px 2146px #fff,
     486px 2323px #fff, 1981px 1520px #fff, 270px 607px #fff, 2246px 2302px #fff,
     1144px 2242px #fff, 1708px 683px #fff, 1428px 680px #fff, 1424px 417px #fff,
@@ -1190,7 +1190,7 @@ body {
 }
 
 .particle-4 {
-  animation: animParticle 200s linear infinite;
+  animation: animParticle 200s linear infinite reverse;
   box-shadow: 0px 0px #fff, 1072px 284px #fff, 160px 1846px #fff,
     915px 1325px #fff, 1234px 479px #fff, 944px 2446px #fff, 2361px 82px #fff,
     2016px 1373px #fff, 161px 1236px #fff, 1532px 1050px #fff,
